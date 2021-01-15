@@ -707,7 +707,7 @@ textarea:focus {
   text-align: center;
   width: 360px;
   height: 150px;
-}
+ margin: 0 auto;}
 
 .container1 {
   display: inline-block;
@@ -1480,7 +1480,8 @@ textarea:focus {
 }
 
 @media (max-width: 530px) {
-  .form {
+ .timer1 {width: 275px;} .numbers1 {font-size: 30px;} .description1 {font-size: 15px}
+ .form {
     margin-top: 2rem;
     padding: 1.5rem 2rem;
     padding-bottom: 3rem;
